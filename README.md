@@ -1,11 +1,11 @@
 # Project Title
 
-Brief description of your project and what it does.
+This is a repository for projects undertaken in the computer vision learning journey
 
 ## Folder Structure
 
 ```
-your-project/
+computer-vision-playground/
 │
 ├── src/                # Main source code
 ├── tests/              # Unit tests
@@ -20,7 +20,7 @@ your-project/
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/your-project.git
-   cd your-project
+   cd computer-vision-playground
    ```
 
 2. Set up a virtual environment:
